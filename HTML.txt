@@ -1,0 +1,3 @@
+git clone Link
+git branch <B>
+git checkout -b <B>
